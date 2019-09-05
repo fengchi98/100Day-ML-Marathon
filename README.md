@@ -1,1 +1,1 @@
-# 3rd-ML100Days
+# 100Day-ML-Marathon
